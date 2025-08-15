@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name's Anthony, a SWE intern @ Datadog as part of the Rapid Workloads team for Summer 2025. 
 
-This is my Datadog GitHub. For my personal, please click [here](https://github.com/Zanger67)
+This is my Datadog GitHub. For my personal, please click [Zanger67](https://github.com/Zanger67)
